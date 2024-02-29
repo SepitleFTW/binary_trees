@@ -2,9 +2,6 @@
 /**
  * binary_tree_delete - remooves a selected binary trree
  * @tree: points to the node root of tree to delete
- *
- * Return: 1 if node is leaf
- * else return 0
 */
 void binary_tree_delete(binary_tree_t *tree)
 {
